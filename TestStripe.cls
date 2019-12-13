@@ -5,6 +5,7 @@
 @Description      : This class is common test class for all stripe related class.
                       
 */
+@isTest
 public class TestStripe{
     
     @isTest
